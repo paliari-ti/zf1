@@ -1,6 +1,6 @@
 {
-    "name": "zendframework/zendframework1",
-    "description": "Zend Framework 1",
+    "name": "paliari/zf1",
+    "description": "Fork of Zend Framework 1",
     "type": "library",
     "keywords": [
         "framework",
